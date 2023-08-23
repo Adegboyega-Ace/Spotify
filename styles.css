@@ -1,0 +1,8 @@
+ body {
+    font-family: 'Roboto Mono', monospace;
+ }
+
+ image {
+   background: url(./img/img1.jpg);
+   object-fit: fill;
+ }
